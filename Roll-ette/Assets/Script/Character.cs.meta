@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b946de6593783de4191eea67d49d30be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - diceAttack: {instanceID: 0}
+  - hPNum: {instanceID: 0}
+  - menuName: {instanceID: 0}
+  - mNum: {instanceID: 0}
+  - sNum: {instanceID: 0}
+  - kNum: {instanceID: 0}
+  - wNum: {instanceID: 0}
+  - DamageTextPrefab: {fileID: 210128988181668789, guid: 70ee30564d01648268d8370719ad3374,
+      type: 3}
+  - anim: {instanceID: 0}
+  - occupiedTile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
